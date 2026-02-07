@@ -1,0 +1,1 @@
+# Snapchat Clone Backend\n\n## Project Structure\n- src\n    - controllers\n    - models\n    - routes\n    - services\n    - config\n\n## Important Files\n- .env\n- package.json\n- server.js\n\n## Getting Started\n1. Install dependencies: `npm install`\n2. Run the server: `node server.js`\n
